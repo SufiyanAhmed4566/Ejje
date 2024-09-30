@@ -1,5 +1,4 @@
 import dlib
-import pandas 
 import numpy as np
 import cv2
 import os
